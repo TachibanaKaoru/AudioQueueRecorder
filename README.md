@@ -1,6 +1,11 @@
 # AudioQueueRecorder
 Audio Recorder with Audio Queue.
 
+## Requirements
+
+- Xcode 11+
+- Swift 5.1+
+
 ## How to use
 
 Please prepare before use.
