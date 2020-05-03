@@ -1,5 +1,5 @@
 # AudioQueueRecorder
-Audio Recorder with Audio Queue.
+Swift Audio Recorder with Audio Queue.
 
 ## Requirements
 
